@@ -1,2 +1,4 @@
 *~
 /declare.egg-info/*
+/.coverage
+.tox

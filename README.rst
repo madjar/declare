@@ -11,6 +11,13 @@ they are built in a concise way.
 It can probably be used for other things, since nothing ties it to
 scrappers. Let me know if you find it another use!
 
+Warning
+=======
+
+This is a proof of concept of what is mostly a bad idea. Writing the
+equivalent code in an `__init__` function is simpler, more readable
+and involves much less magic.
+
 Example
 =======
 
